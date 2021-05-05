@@ -24,9 +24,9 @@ https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
 * Share if it is true& likes the news. Comment why it's fake news.
 
 ## Screenshots - 
-![home](https://github.com/jay-thakur/Fake_News_Classifier/blob/main/home.jpg?raw=true)
-![vote](https://github.com/jay-thakur/Fake_News_Classifier/blob/main/vote.jpg?raw=true)
-![comment](https://github.com/jay-thakur/Fake_News_Classifier/blob/main/comment.jpg?raw=true)
+![home](https://github.com/jay-thakur/Fake_News_Classifier/blob/main/images/home.jpeg)
+![vote](https://github.com/jay-thakur/Fake_News_Classifier/blob/main/images/vote.jpeg)
+![comment](https://github.com/jay-thakur/Fake_News_Classifier/blob/main/images/comment.jpeg)
 
 # Deployment - 
 ## Prerequisite:
